@@ -4,7 +4,7 @@
     "maintainer": "lalalademaxiya1",
     "eeprom": {
         "wear_leveling": {
-            "backing_size": 4096
+            "backing_size": 1
         }
     },
     "usb": {
@@ -17,7 +17,7 @@
         "mousekey": true,
         "nkro": true
     },
-    "processor": "STM32F401",
+    "processor": "STM32F402RC",
     "bootloader": "stm32-dfu",
     "matrix_pins": {
         "cols": ["A0", "A1", "A2", "A3", "C0", "C1", "C2", "C3", "A8", "C12", "B9", "C6", "C7", "C4", "C5","A15", "B10", "B12", "B13", "B14", "B15"],
