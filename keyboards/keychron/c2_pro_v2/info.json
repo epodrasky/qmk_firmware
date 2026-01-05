@@ -4,7 +4,7 @@
     "maintainer": "lalalademaxiya1",
     "eeprom": {
         "wear_leveling": {
-            "backing_size": 1
+            "backing_size": 16384
         }
     },
     "usb": {
